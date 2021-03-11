@@ -4,10 +4,9 @@
 |--|--|
 |Alper İle Python video serisi için hazırladığım repository. Her bölüm içinde hazırladığımız kodları bu repository'den paylaşacağım.| The repository I prepared for the "Python with Alper" video series. I will share the codes we have prepared in each episode from this repository. |
 |Jupyter notebook ile geliştirme yaptığımız ilk bölümlerde bilgisayarınıza kurulum yapmadan bu örnekleri çalıştırmanız mümkün. Bunun için her bölümde sizlerle mybinder.org üzerinde bir link paylaşacağım.|In the first episodes we developed with Jupyter notebook, it is possible to run these examples without installing on your computer. For this, I will share a link on mybinder.org in each episode. |
-&NewLine;  
-&NewLine;  
 
-Icons made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/).
+&NewLine;  
+&NewLine;  
 
 ![GitHub](contents/github.png) GitHub :  
 [![GitHub issues](https://img.shields.io/github/issues/alperkonuralp/AlperIlePython?logo=github)](https://github.com/alperkonuralp/AlperIlePython/issues)
@@ -70,3 +69,8 @@ Icons made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) fr
 
 **Tags :**  
 Python, Alper Konuralp, Alper ile Python, Alper Konuralp ile Python,  Python with Alper,  Python with Alper Konuralp
+
+&NewLine;  
+&NewLine;  
+
+Icons made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/).
