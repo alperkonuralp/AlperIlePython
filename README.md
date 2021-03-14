@@ -5,9 +5,6 @@
 |Alper İle Python video serisi için hazırladığım repository. Her bölüm içinde hazırladığımız kodları bu repository'den paylaşacağım.| The repository I prepared for the "Python with Alper" video series. I will share the codes we have prepared in each episode from this repository. |
 |Jupyter notebook ile geliştirme yaptığımız ilk bölümlerde bilgisayarınıza kurulum yapmadan bu örnekleri çalıştırmanız mümkün. Bunun için her bölümde sizlerle mybinder.org üzerinde bir link paylaşacağım.|In the first episodes we developed with Jupyter notebook, it is possible to run these examples without installing on your computer. For this, I will share a link on mybinder.org in each episode. |
 
-&NewLine;  
-&NewLine;  
-
 ![GitHub](contents/github.png) GitHub :  
 [![GitHub issues](https://img.shields.io/github/issues/alperkonuralp/AlperIlePython?logo=github)](https://github.com/alperkonuralp/AlperIlePython/issues)
 [![GitHub forks](https://img.shields.io/github/forks/alperkonuralp/AlperIlePython?logo=github)](https://github.com/alperkonuralp/AlperIlePython/network)
@@ -17,9 +14,6 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Falperkonuralp)
 ![Twitter Follow](https://img.shields.io/twitter/follow/alperkonuralp?style=social)
-
-&NewLine;  
-&NewLine;  
 
 ## Bölümler
 
@@ -41,16 +35,12 @@
 1. [Alper ile Python - B014 - Dizileri Parçalamak / Python with Alper - E014 - Slicing In Arrays](E014/E014.md)
 1. [Alper ile Python - B015 - Döngüler / Python with Alper - E015 - Loops](E015/E015.md)
 
-&NewLine;  
-&NewLine;  
-
 | tr | en |
 | -- | -- |
 | Merhaba bu seride Python programlama dilini nasıl kullanabileceğimizi öğreteceğim. Farklı seviyelerde internet üzerinde birçok kaynak olduğunu biliyorum. Ama programlamaya birde benim açımdan bakmanızı istiyorum. Elimden geldiğince hiç bilmeyenler için bir içerik üretmeye çalışacağım. Tabi zamanla daha ileri konularda karşımıza çıkacak. Bu eğitimin herkes için güzel bir deneyim sunmasını dilerim. | Hello, in this series I will teach you how to use the Python programming language. I know there are many sources on the internet at different levels. But I want you to look at programming from my point of view. I will try to produce content for those who do not know as much as I can. Of course, we will encounter more advanced issues over time. I hope this training will provide a good experience for everyone. |
 | İyi seyirler. | Have a good time. |
 
-&NewLine;  
-&NewLine;  
+.
 
 | Site | Url |
 |--|--|
@@ -64,13 +54,8 @@
 |Clips / Effects / Motions|Premium Beat [https://www.premiumbeat.com/](https://www.premiumbeat.com/) + MixKit [https://mixkit.co/](https://mixkit.co/) |
 |Doodle Videos|Doodly [https://www.doodly.com/](https://www.doodly.com/)|
 
-&NewLine;  
-&NewLine;  
-
 **Tags :**  
 Python, Alper Konuralp, Alper ile Python, Alper Konuralp ile Python,  Python with Alper,  Python with Alper Konuralp
 
-&NewLine;  
-&NewLine;  
-
+----
 Icons made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/).
