@@ -34,6 +34,7 @@
 1. [Alper ile Python - B013 - Dizilerde İşlemler / Python with Alper - E013 - Operations on Arrays](E013/E013.md)
 1. [Alper ile Python - B014 - Dizileri Parçalamak / Python with Alper - E014 - Slicing In Arrays](E014/E014.md)
 1. [Alper ile Python - B015 - Döngüler / Python with Alper - E015 - Loops](E015/E015.md)
+1. [Alper ile Python - B016 - Dizilerde Döngü / Python with Alper - E016 - Loop In Arrays](E016/E016.md)
 
 | tr | en |
 | -- | -- |
