@@ -1,16 +1,38 @@
-# This is a sample Python script.
+liste = [0, 1, 2, 3, 4, 5]
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+liste = list(range(0, 6))
+
+# ikininKatlari = [2**0, 2**1, 2**2, 2**3]
+ikininKatlari = []
+
+for i in liste:
+    if i % 2 == 0:
+        ikininKatlari.append(2**i)
+
+ikininKatlari2 = [2**i for i in liste if i % 2 == 0]
+
+print(ikininKatlari)
+print(ikininKatlari2)
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+from data import data
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print(len(data))
+
+isimListesi = [ f'{x["name"]["first"]} {x["name"]["last"]}' for x in data ]
+
+print(isimListesi)
+
+
+# kisiler = [ x for x in data if x["isActive"] ]
+kisiler = [ x for x in data if x["isActive"] and "Lorem" in x["tags"] ]
+
+print(len(kisiler))
+# print(kisiler)
+
+
+
+
+
