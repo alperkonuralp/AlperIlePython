@@ -1,36 +1,21 @@
-# from os import path
-#
-# fn = input('Dosya Adını Giriniz : ')
-#
-# if path.exists(fn):
-#     with open(fn, 'rt') as f:
-#         c = f.read()
-#         print(c)
-#
+
+print("Merhaba")
+
+a = float(input("ilk sayı:"))
+
+b = float(input("ikinci sayı:"))
+# if b == 0.0:
+#     print("Lütfen 0'dan farklı bir sayı giriniz.")
 # else:
-#     print("Dosya bulunamadı.")
-from io import TextIOWrapper
+#     print(" a / b = ", a, "/", "b = ", a / b)
 
-fn = input('Dosya Adını Giriniz : ')
-f = False
 try:
-    # print(5/0)
-    f = open(fn, 'rt')
-    print(type(f))
-    c = f.read()
-    print(c)
-# except ZeroDivisionError:
-#     print('Sıfıra bölme hatası')
-
-except FileNotFoundError as fnfe:
-    print('Dosya bulunamadı. ', fnfe.filename)
-
-except:
-    print('İşlem sırasında bir hata oluştu. Lütfen sonra tekrar deneyiniz.')
-
+    print(" a / b = ", a, "/", "b = ", a / b)
+except ZeroDivisionError as zde:
+    print("Lütfen 0'dan farklı bir sayı giriniz.")
+except MemoryError as me:
+    print("Hafıza Hatası :", me)
 else:
-    print(fn, 'isimli dosya okundu.')
-
+    print("İşlem hatasız.")
 finally:
-    if f is TextIOWrapper and not f.closed:
-        f.close()
+    print("İşlem Bitti!...")
